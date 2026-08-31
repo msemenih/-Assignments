@@ -28,6 +28,6 @@ Screenshot showing that Python 3 is installed successfully:
 
 Screenshot showing the Github repository is all set up for this course:
 
-![GitHub screenshot](IMG_3182.PNG)
+![GitHub screenshot](IMG_3182.png)
 
 
