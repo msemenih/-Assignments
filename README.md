@@ -22,7 +22,7 @@ Enrolled course assignments
 
 Screenshot showing that Python 3 is installed successfully:
 
-![Python screenshot](IMG_3183.JPEG)
+![Python screenshot](IMG_3183.jpeg)
 
 ## Question 4
 
