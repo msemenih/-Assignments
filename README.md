@@ -22,12 +22,12 @@ Enrolled course assignments
 
 Screenshot showing that Python 3 is installed successfully:
 
-[IMG_3183.jpeg]
+![Python screenshot](images/IMG_3183.JPEG)
 
 ## Question 4
 
 Screenshot showing the Github repository is all set up for this course:
 
-(IMG_3182.png)
+![Python screenshot](images/IMG_3182.PNG)
 
 
