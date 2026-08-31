@@ -16,7 +16,7 @@ Enrolled course assignments
 
 ## Python Performance
 
-A real-world example where Python can offer superior performance is in scientific computing and data analysis using the NumPy library. NumPy allows Python to process large amounts of numerical data using vectorized operations. Instead of writing individual loops to process every value, NumPy can perform calculations on an entire array at once. These operations are executed behind the scenes using optimized, precompiled code, allowing them to run at speeds close to C or C++. Python also allows programmers to accomplish these tasks with fewer lines of code, making development faster and easier. For applications such as data analysis, machine learning, image processing, and scientific calculations, this combination of speed and programming efficiency makes Python very effective.
+A real-world example where Python's potential advantage is in scientific computations and data analysis using NumPy. This allows Python to handle massive amount of numerical data by the use of vectorized computations where operations are applied on entire array, instead of on every individual element within loops. Those operations are handled internally in precompiled C/C++ optimized codes and the result will be extremely close to C/C++, and the code itself is more compact (using few lines of code). This is very beneficial for applications such as data analysis, machine learning, Image processing, and scientific calculations.
 
 ## Question 3
 
